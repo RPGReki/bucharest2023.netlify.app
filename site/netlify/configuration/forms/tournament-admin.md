@@ -26,7 +26,7 @@ Last Update: {{ site.time | date: '%Y-%m-%d %H:%M %Z'}}
 {% endunless %}
 </td><td>
 {% unless p.status == "DEL" %}
-<form name="Administration" method="POST" action="/eingabe-wird-verabeitet/" data-netlify="true">
+<form name="Administration" method="POST" action="#" data-netlify="true">
   <input name="name" type="hidden" value="{{ p.give_name }} {{ p.surname }}">
   <input name="email" type="hidden" value="{{ p.email }}">
   <input name="id" type="hidden" value="{{ p.id }}" />
@@ -42,7 +42,7 @@ Last Update: {{ site.time | date: '%Y-%m-%d %H:%M %Z'}}
 
 ## Sign Up Form for “Waiting List”
 
-<form name="Registration" method="POST" action="//" id="contactform" class="form-horizontal" data-netlify="true" netlify-honeypot="captcha">
+<form name="Registration" method="POST" action="#" id="contactform" class="form-horizontal" data-netlify="true" netlify-honeypot="captcha">
   <fieldset id="contact">
     <div>
       <label for="given_name">Given Name*</label>
