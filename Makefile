@@ -2,18 +2,16 @@ SHELL = /bin/bash
 
 # user configuration
 
-URL = https://riichi.cologne
+URL = https://bucharest2023.netlify.app
 
 # automation begins here
+GLOBAL_XML = /sitemap.xml 
 
-STORY_XML = $(foreach story,$(STORIES),$(foreach feed,$(STORY_FEEDS),/$(story)/$(feed)))
-GLOBAL_XML = /sitemap.xml /blog.xml $(STORY_XML)
-
-PARTICIPANTS_FILES = site/_data/tournaments/202305/participants.json site/_data/tournaments/202305/seminar-participants.json
+PARTICIPANTS_FILES = site/_data/tournaments/202305/participants.json
 
 COMMON_NORMAL_PREREQUESITES = 
 
-COMMON_ORDER_ONLY_PREREQUESITES = site/_data/comments.json $(PARTICIPANTS_FILES)
+COMMON_ORDER_ONLY_PREREQUESITES = $(PARTICIPANTS_FILES)
 
 # imported files are phony to force re-importing
 .PHONY: clean diff-tables submit-sitemap

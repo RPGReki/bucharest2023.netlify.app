@@ -1,0 +1,11 @@
+---
+layout: null
+sitemap: false
+permalink: /_redirects
+---
+
+## UX stuff
+
+/player* id=:id /player/:id/? 301
+
+# vim: set textwidth=0:

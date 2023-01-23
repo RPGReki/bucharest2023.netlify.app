@@ -1,6 +1,6 @@
 ---
 title: Thanks for Registering
-ref: submit-registration
+layout: 2021/data_table
 
 sitemap: false
 robots: noindex
