@@ -6,7 +6,7 @@ robots: noindex
 permalink: /61fbaea93f690300071fa4a4/admin/61fbbb73436202000797b3b9/
 ---
 
-Stand: {{ site.time | date: '%Y-%m-%d %H:%M %Z'}}
+Last Update: {{ site.time | date: '%Y-%m-%d %H:%M %Z'}}
 
 <table>
 <tr><th>Vorname</th><th>Nachname</th><th>EMA Nummer</th><th>eMail</th><th>Datum</th><th>Land</th><th>Status</th></tr>

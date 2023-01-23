@@ -24,15 +24,6 @@ sass:
   style: compressed
   cache: false
 
-### Plugins
-plugins:
-#  - jekyll-regex-replace
-  - jekyll-include-cache
-#  - jekyll-liquify
-#  - jekyll-criticmarkup
-#  - jekyll-wns
-#  - jekyll-last-modified-at
-
 ## SEO
 #twitter:
 #  username: 0xReki
