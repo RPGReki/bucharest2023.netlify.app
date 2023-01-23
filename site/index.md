@@ -117,7 +117,7 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 </thead>
 <tbody>
 {% assign skipped = 0 %}
-{% for p in site.data.202305.participants %}
+{% for p in site.data.tournaments.202305.participants %}
 {% if p.status == "DEL" %}{% assign skipped = skipped | plus: 1 %}{% continue %}{% endif %}
 <tr>
 <td>{{ forloop.index | minus: skipped }}</td>
