@@ -1,5 +1,5 @@
 ---
-title: 2023 Tunierverwaltung
+title: 2023 Tournament Administration
 layout: 2021/data_table
 sitemap: false
 robots: noindex
@@ -9,9 +9,9 @@ permalink: /61fbaea93f690300071fa4a4/admin/61fbbb73436202000797b3b9/
 Last Update: {{ site.time | date: '%Y-%m-%d %H:%M %Z'}}
 
 <table>
-<tr><th>Vorname</th><th>Nachname</th><th>EMA Nummer</th><th>eMail</th><th>Datum</th><th>Land</th><th>Status</th></tr>
+<tr><th>Given Name</th><th>Surname</th><th>EMA Number</th><th>eMail</th><th>Date</th><th>Country</th><th>Status</th></tr>
 
-{% for p in site.data.tournaments.202304.participants %}
+{% for p in site.data.tournaments.202305.participants %}
 <tr><td>{{ p.given_name }}</td><td>{{ p.surname }}</td><td>{{ p.ema_id }}</td><td>{{ p.email }}</td><td>{{ p.date | date: "%Y-%m-%d %H:%M" }}</td><td>{{ p.country }}</td>
 <td>{% unless p.status == "DEF" %}
 <form name="Administration" method="POST" action="/eingabe-wird-verabeitet/" data-netlify="true">
@@ -19,10 +19,10 @@ Last Update: {{ site.time | date: '%Y-%m-%d %H:%M %Z'}}
   <input name="email" type="hidden" value="{{ p.email }}">
   <input name="id" type="hidden" value="{{ p.id }}" />
   <input name="action" type="hidden" value="DEF">
-  <button type="sumbit" id="paidbutton" class="btn btn-primary btn-block">Bez.</button>
+  <button type="sumbit" id="paidbutton" class="btn btn-primary btn-block">Paid</button>
 </form>
 {% else %}
-<b>Bez.</b>
+<b>Paid</b>
 {% endunless %}
 </td><td>
 {% unless p.status == "DEL" %}
@@ -31,18 +31,18 @@ Last Update: {{ site.time | date: '%Y-%m-%d %H:%M %Z'}}
   <input name="email" type="hidden" value="{{ p.email }}">
   <input name="id" type="hidden" value="{{ p.id }}" />
   <input name="action" type="hidden" value="DEL">
-  <button type="sumbit" id="deletebutton" class="btn btn-primary btn-block">Löschen</button>
+  <button type="sumbit" id="deletebutton" class="btn btn-primary btn-block">Delete</button>
 </form>
 {% else %}
-<b>Gelöscht</b>
+<b>Deleted</b>
 {% endunless %}
 </td></tr>
 {% endfor %}
 </table>
 
-## Formular neue Einträge
+## Sign Up Form for “Waiting List”
 
-<form name="Registration" method="POST" action="/en/thanks-for-registering/" id="contactform" class="form-horizontal" data-netlify="true" netlify-honeypot="captcha">
+<form name="Registration" method="POST" action="//" id="contactform" class="form-horizontal" data-netlify="true" netlify-honeypot="captcha">
   <fieldset id="contact">
     <div>
       <label for="given_name">Given Name*</label>
