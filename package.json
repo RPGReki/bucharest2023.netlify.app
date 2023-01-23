@@ -1,0 +1,29 @@
+{
+  "name": "crystaldown.de",
+  "version": "1.0.0",
+  "description": "Crystal Down",
+  "main": "index.js",
+  "scripts": {
+    "get-comments": "gulp get-comments --silent"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/0xReki/crystaldown.de.git"
+  },
+  "author": "Thai “0xReki” Chung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/0xReki/crystaldown.de/issues"
+  },
+  "homepage": "https://gitlab.com/0xReki/crystaldown.de#readme",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "gulp": "^4.0.2",
+    "md5": "^2.3.0",
+    "request": "^2.88.2"
+  },
+  "dependencies": {
+    "netlify": "^7.0.1",
+    "netlify-cli": "^4.0.5"
+  }
+}

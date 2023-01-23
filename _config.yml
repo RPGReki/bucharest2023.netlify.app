@@ -1,0 +1,118 @@
+## Basic Configuration
+title: "0xReki's Misadventures"
+description: "Creative Writing, Mahjong and more!"
+source: site
+destination: docs
+
+timezone: Europe/Berlin
+future: true
+
+url: 'https://bucharest2023.netlify.app'
+
+excerpt_separator: "<!--more-->"
+  
+permalink: pretty
+
+### Copyright
+#copyright:
+#  license: <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>
+#  name: quốc Thái “0xReki” Chung
+#  url: /about-me/
+
+
+### SASS
+sass:
+  style: compressed
+  cache: false
+
+### Plugins
+plugins:
+  - jekyll-regex-replace
+  - jekyll-include-cache
+  - jekyll-liquify
+#  - jekyll-criticmarkup
+#  - jekyll-wns
+  - jekyll-last-modified-at
+
+## SEO
+#twitter:
+#  username: 0xReki
+#  card: summary
+#facebook:
+#  app_id: 656032504831426
+#tumblr:
+#  url: 0xreki.tumblr.com
+#mastodon:
+#  username: 0xReki@gamingjp.org
+#google_analytics: UA-143950814-4
+#patreon:
+#  title: Become a Patron to read early access chapters
+#  url: https://www.patreon.com/bePatron?u=27792463
+webmaster_verifications:
+  - name: seobility
+    key: efc87fbbcdcf8f61c070bbcc23dab8b1
+  - name: "flattr:id"
+    key: ol39pw
+  - name: yandex-verification
+    key: 6ffa84e7e6fe0f02
+  - name: "msvalidate.01"
+    key: 6AC9CB5682E608DAAC61DB673BDE81A4
+#favicon:
+#  href: /icon.svg
+#  type: image/svg+xml
+#alt-icon:
+#  href: /icon.ico
+#mask-icon:
+#  href: /mark-icon.svg
+#  color: '#9c2c2c'
+
+# Optimizations
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: [p, li, td, rb, rp, rt, dt, dd, tr, td, th]
+  blanklines: false
+  profile: false
+  startings: []
+  ignore:
+    envs:
+
+preload:
+  fonts:
+  - /assets/fonts/Cardo-Regular.woff2
+  - /assets/fonts/SourceSans3-Regular.woff2
+  - /assets/fonts/SourceSans3-Bold.woff2
+
+liquid:
+  error_mode: warn
+
+token:
+  max: 2147483647
+  mod:  899981
+  plus: 100000
+
+# Syntax
+markdown: kramdown
+
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"] # Smartquotes off
+
+wns:
+  quads: true
+  abbreviations: true
+  label_unicode: true
+
+# Comments
+comments:
+  action: /thanks-for-commenting/
+
+## Defaults
+defaults:
+  - # /
+    scope:
+      path: ""
+    values:
+      lang: "en-US"
+      publisher: reki
+      comments: false
+      image: /images/-og.jpg

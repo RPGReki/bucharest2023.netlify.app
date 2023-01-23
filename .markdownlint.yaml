@@ -1,0 +1,48 @@
+# MD003/heading-style/header-style - Heading style
+MD003:
+  # Heading style
+  style: atx
+
+# MD004/ul-style - Unordered list style
+MD004:
+  # List style
+  style: dash
+
+# MD013/line-length - Line length
+MD013: false
+
+# MD030/list-marker-space - Spaces after list markers
+MD030: false
+
+# MD033/no-inline-html - Inline HTML
+MD033:
+  # Allowed elements
+  allowed_elements: []
+
+MD036:
+  # Punctuation characters
+  punctuation: ".,;:!?。，；：！？«»„“”"
+
+# MD041/first-line-heading/first-line-h1 - First line in a file should be a top-level heading
+MD041:
+  # Heading level
+  level: 1
+  # RegExp for matching title in front matter
+  front_matter_title: "^\\s*title\\s*[:=]"
+
+# MD044/proper-names - Proper names should have the correct capitalization
+MD044:
+  # List of proper names
+  names: []
+  # Include code blocks
+  code_blocks: true
+
+# MD046/code-block-style - Code block style
+MD046:
+  # Block style
+  style: fenced
+
+# MD048/code-fence-style - Code fence style
+MD048:
+  # Code fence syle
+  style: backtick
