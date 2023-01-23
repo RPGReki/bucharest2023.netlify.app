@@ -1,12 +1,12 @@
 ## Basic Configuration
-title: "Bucharest 2023"
+title: "RONmania 2023"
 description: ""
 source: site
 destination: docs
 
 timezone: Europe/Berlin
 
-url: 'https://bucharest2023.netlify.app'
+url: 'https://ronmania2023.netlify.app'
 
 excerpt_separator: "<!--more-->"
   

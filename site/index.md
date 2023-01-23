@@ -1,5 +1,5 @@
 ---
-title: Bucharest May 2023
+title: RONmania 2023
 layout: 2021/data_table
 robots: noindex
 ---
