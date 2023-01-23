@@ -1,6 +1,5 @@
 ---
-title: Heiwa nomi no Mājan taisen in April 2023
-ref: heiwa-nomi-no-maajan-taisen-2023
+title: Bucharest May 2023
 layout: 2021/data_table
 robots: noindex
 ---
