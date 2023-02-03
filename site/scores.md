@@ -1,12 +1,11 @@
 ---
-title: Yūjō Mahjong Taikai in June 2023 — Full Score Table
-ref: yuuyou-taikai-2023
+title: RONmania 2023 — Full Score Table
 layout: 2021/data_table
 sitemap: false
 robots: noindex
 
 ---
-[Back to the 2023 Tournament Page](../yuujou-maajan-taikai/)
+[Back to the 2023 Tournament Page](/)
 
 <table class="data-table">
 <thead>
@@ -42,6 +41,7 @@ robots: noindex
 <td>{{ p.R6 }}</td>
 <td>{{ p.R7 }}</td>
 <td>{{ p.R8 }}</td>
+<td>{{ p.R9 }}</td>
 <td>{{ p.Total }}</td>
 </tr>
 {% endfor %}

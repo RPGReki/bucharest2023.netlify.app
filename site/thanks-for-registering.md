@@ -15,9 +15,10 @@ comments: false
 > If you haven't done so, please transfer the registration fee to:
 >
 > {:.ml-4}
-> > Account Holder: Manuel Schlich\\
-> > IBAN: DE71 5776 1591 0183 6651 20\\
-> > BIC: GENODED1BNA
+> > Account Holder: Rene Khezam\\
+> > IBAN: RO22 BTRL 0480 1201 F197 64XX \\
+> > BIC: BTRLRO22XXX \\
+> > SWIFT: BTRLRO22
 >
 > {:.mb-2}
 > [Back](javascript:history.back()){:onclick="history.back()" .btn .btn-primary}
