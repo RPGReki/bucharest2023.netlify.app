@@ -76,9 +76,6 @@ For the metro, you can purchase a recyclable metro card with 2 to 10 entry passe
 
 This tournament has 9 hanchan with 90 minutes each and will be played according to [EMA Riichi Competition Rules from April 2016](http://mahjong-europe.org/portal/images/docs/Riichi-rules-2016-EN.pdf).
 
-### Friday Evening
-
-{:.mt-3}
 ### 1st Day (Saturday)
 
 {:.data-table-plain}
