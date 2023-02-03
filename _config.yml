@@ -31,9 +31,9 @@ plugins:
   - jekyll-last-modified-at
 
 ## SEO
-#twitter:
-#  username: 0xReki
-#  card: summary
+twitter:
+  username: Mikelittlepony1
+  card: summary
 #facebook:
 #  app_id: 656032504831426
 #tumblr:
