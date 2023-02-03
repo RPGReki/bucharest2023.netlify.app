@@ -3,10 +3,16 @@ title: RONmania 2023
 layout: 2021/data_table
 robots: noindex
 ---
+Welcome to the RONmania Open 2023!
+
+The first tournament to be held in Romania, in the capital city of Bucharest as its host!
 
 ## Registration
 
-This two day tournament will take place from 2023-05-27 to 2023-05-28.
+This 2 day tournament, which is currently pending MERS approval, will take place on the 27th and 28th of May 2023.
+The number of participants is limited to 60 (this number may increase with sufficient interest).
+The registration fee is 50 Euro. Included in the registration fee are 2 lunches and an assortment of non-alcoholic beverages at the venue.
+If possible, please transfer this 3 weeks before the start of the tournament (the 6th of May) to the following account
 
 ### Registration Form
 
@@ -46,16 +52,31 @@ This two day tournament will take place from 2023-05-27 to 2023-05-28.
 Registration closed. Please use our [contact form](/en/contact/) to message us and to be placed on the waiting list.{% endcomment %}
 
 {:.mt-3}
+## Venue
+
+<figure>
+
+<a href="https://www.google.com/maps/place/Restaurant+Tom/@44.4659986,26.0675864,16.75z/data=!4m6!3m5!1s0x40b202187e9a829f:0xf5af3b5c6dabe5bd!8m2!3d44.4651256!4d26.0685737!16s%2Fg%2F11c1qz3w_z"><img src="/images/map.png" alt="Restaurant Tom, Bulevardul Ion Mihalache 128, București"></a>
+
+<figcaption><a href="https://www.google.com/maps/place/Restaurant+Tom/@44.4659986,26.0675864,16.75z/data=!4m6!3m5!1s0x40b202187e9a829f:0xf5af3b5c6dabe5bd!8m2!3d44.4651256!4d26.0685737!16s%2Fg%2F11c1qz3w_z">Restaurant Tom<br>
+Bulevardul Ion Mihalache 128, București</a>
+</figcaption>
+</figure>
+
+The venue is located near the Tram Stop on Piata Domenii (Line 24 and 45), Bus Station Piata Domenii (Line 205,282,381), the closest Metro Station is 1 Mai (Green Line M4) which is about a 10-15 minute walk.
+
+### Public Transport
+
+For trams and busses, you can send a text message to 7458 with ''C'', you will be charged 3 lei (0.6 Euro) which will allow you to travel on any tram or bus line for an hour.
+For the metro, you can purchase a recycleable metro card with 2 to 10 entree passes for 3 lei/pass (0.6 Euro/pass).
+
+
+{:.mt-3}
 ## Format and Timetable
 
 This tournament has 9 hanchan with 90 minutes each and will be played according to [EMA Riichi Competition Rules from April 2016](http://mahjong-europe.org/portal/images/docs/Riichi-rules-2016-EN.pdf).
 
 ### Friday Evening
-
-{:.data-table-plain}
-| Time                        | Event                       |
-| --------------------------- | --------------------------- |
-|19:30&#x202f;--&#x202f;22:00 |Pre-Registration and Social Play |
 
 {:.mt-3}
 ### 1st Day (Saturday)
@@ -63,16 +84,17 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 {:.data-table-plain}
 | Time                         | Event       |
 | ---------------------------- | ----------- |
-| 09:00&#x202f;--&#x202f;09:30 | Registration |
-| 09:30&#x202f;--&#x202f;09:45 | Opening Ceremony |
-| 09:45&#x202f;--&#x202f;11:15 | 1st Hanchan  |
-| 11:15&#x202f;--&#x202f;11:30 | Break       |
-| 11:30&#x202f;--&#x202f;13:00 | 2nd Hanchan  |
-| 13:00&#x202f;--&#x202f;13:45 | Lunch |
-| 13:45&#x202f;--&#x202f;15:15 | 3rd Hanchan  |
-| 15:15&#x202f;--&#x202f;15:30 | Break       |
-| 15:30&#x202f;--&#x202f;17:00 | 4th Hanchan  |
-|                              | Beer, Snacks and Social Play |
+| 08:00&#x202f;--&#x202f;08:30 | Registration |
+| 08:30&#x202f;--&#x202f;08:45 | Opening Ceremony |
+| 08:45&#x202f;--&#x202f;10:15 | 1st Hanchan  |
+| 10:15&#x202f;--&#x202f;10:30 | Break       |
+| 10:30&#x202f;--&#x202f;12:00 | 2nd Hanchan  |
+| 12:00&#x202f;--&#x202f;13:00 | Lunch |
+| 13:00&#x202f;--&#x202f;14:30 | 3rd Hanchan  |
+| 14:30&#x202f;--&#x202f;14:45 | Break       |
+| 14:45&#x202f;--&#x202f;16:15 | 4th Hanchan  |
+| 16:15&#x202f;--&#x202f;16:30 | Break       |
+| 16:30&#x202f;--&#x202f;18:00 | 4th Hanchan  |
 
 {:.mt-3}
 ### 2nd Day (Sunday)
@@ -80,26 +102,15 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 {:.data-table-plain}
 | Time                        | Event        |
 | ---------------------------- | ------------ |
-| 09:45&#x202f;--&#x202f;11:15 | 5th Hanchan  |
-| 11:15&#x202f;--&#x202f;11:30 | Break        |
-| 11:30&#x202f;--&#x202f;13:00 | 6th Hanchan  |
-| 13:00&#x202f;--&#x202f;13:45 | Lunch        |
-| 13:45&#x202f;--&#x202f;15:15 | 7th Hanchan  |
-| 15:15&#x202f;--&#x202f;15:30 | Break        |
-| 15:30&#x202f;--&#x202f;17:00 | 8th Hanchan  |
-| 17:00&#x202f;--&#x202f;17:30 | Award Ceremony |
-
-{% comment %}
-## Seating & Personal Scores
-
-<form method="GET" action="/2023/player">
-  <div class="row my-4">
-  <label class="col-4 align-self-end" for="id">Player Number</label>
-  <input name="id" id="id" placeholder="Player Number" aria-required="true" required="true" class="col-4">
-  <button type="sumbit" class="btn btn-primary btn-block col-4">Go to Player Page</button>
-  </div>
-</form>
-{% endcomment %}
+| 08:45&#x202f;--&#x202f;10:15 | 6st Hanchan  |
+| 10:15&#x202f;--&#x202f;10:30 | Break       |
+| 10:30&#x202f;--&#x202f;12:00 | 7nd Hanchan  |
+| 12:00&#x202f;--&#x202f;13:00 | Lunch |
+| 13:00&#x202f;--&#x202f;14:30 | 8rd Hanchan  |
+| 14:30&#x202f;--&#x202f;14:45 | Break       |
+| 14:45&#x202f;--&#x202f;16:15 | 9th Hanchan  |
+| 16:15&#x202f;--&#x202f;16:45 | Break       |
+| 16:45&#x202f;--&#x202f;17:00 | Award Ceremony |
 
 {:.mt-3}
 ## Participants
