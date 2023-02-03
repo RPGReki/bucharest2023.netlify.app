@@ -1,0 +1,40 @@
+---
+title: Contact
+ref: contact
+
+sitemap: false
+robots: noindex
+comments: false
+disable_audio: true
+---
+<h2>Contact Form</h2>
+<form name="Contact" method="POST" action="/en/thanks-for-the-message/" id="contactform" class="form-horizontal" data-netlify="true" netlify-honeypot="captcha">
+  <fieldset id="contact">
+    <div>
+      <label for="name">Name*</label>
+      <input type="text" name="name" id="name" placeholder="Name" aria-required="true" required="true" />
+      <label for="email">Email*</span></label>
+      <input type="email" name="email" id="email" placeholder="name@domain.tld" aria-required="true" required="true" />
+      <label for="url">Website</label>
+      <input type="URL" name="url" id="url" placeholder="https://domain.tld" />
+    </div>
+    <div>
+      <label for="message">Message*</label>
+      <textarea name="message" id="message" placeholder="Leave a message." aria-required="true" required="true"></textarea>
+    </div>
+    <div class="row mx-2">
+      <input type="checkbox" name="accept-policy" id="accept-policy" aria-required="true" required="true" class="col-auto mt-2">
+      <label for="accept-policy" class="col">
+        I consent to having my data associated with this message processed by Cloudflare and Netlify, stored and forwarded to the owner of this site.
+      </label>
+    </div>
+    <div class="d-none">
+      <input name="lang" type="hidden" value="{{ page.lang }}">
+      <label for="captcha">Captcha*</label>
+      <input name="captcha" type="text">
+    </div>
+    <div>
+      <button type="sumbit" id="messagebutton" class="btn btn-primary btn-block">Submit</button>
+    </div>
+  </fieldset>
+</form>
