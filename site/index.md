@@ -12,7 +12,13 @@ The first tournament to be held in Romania, in the capital city of Bucharest as 
 This 2 day tournament, which is currently pending MERS approval, will take place on the 27th and 28th of May 2023.
 The number of participants is limited to 60 (this number may increase with sufficient interest).
 The registration fee is 50 Euro. Included in the registration fee are 2 lunches and an assortment of non-alcoholic beverages at the venue.
-If possible, please transfer this 3 weeks before the start of the tournament (the 6th of May) to the following account
+
+If possible, please transfer this 3 weeks before the start of the tournament (the 6th of May) to the following account:
+
+Account Holder: Rene Khezam\\
+IBAN: RO22 BTRL 0480 1201 F197 64XX \\
+BIC: BTRLRO22XXX \\
+SWIFT: BTRLRO22
 
 ### Registration Form
 
