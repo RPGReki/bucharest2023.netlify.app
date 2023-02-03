@@ -10,6 +10,7 @@ comments: false
 > {{ page.title }}
 >
 > Your comment has been received by the system.
+> You will not receive a seperate email notification.
 > Note it can take a while until it appears on the page.
 >
 > If you haven't done so, please transfer the registration fee to:
