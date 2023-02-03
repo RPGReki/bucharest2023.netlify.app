@@ -3,6 +3,7 @@ layout: null
 sitemap: false
 permalink: /_redirects
 ---
+https://ronmania2023.reki.wtf/*          {{"/" | absolute_url }}:splat                        200!
 
 ## UX stuff
 
