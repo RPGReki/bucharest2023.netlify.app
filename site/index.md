@@ -67,8 +67,8 @@ The venue is located near the Tram Stop on Piata Domenii (Line 24 and 45), Bus S
 
 ### Public Transport
 
-For trams and busses, you can send a text message to 7458 with ''C'', you will be charged 3 lei (0.6 Euro) which will allow you to travel on any tram or bus line for an hour.
-For the metro, you can purchase a recycleable metro card with 2 to 10 entree passes for 3 lei/pass (0.6 Euro/pass).
+For trams and buses, you can send a text message to 7458 with ''C'', you will be charged 3 lei (0.6 Euro) which will allow you to travel on any tram or bus line for an hour.
+For the metro, you can purchase a recyclable metro card with 2 to 10 entry passes for 3 lei/pass (0.6 Euro/pass).
 
 
 {:.mt-3}
@@ -164,7 +164,5 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 {% endfor %}
 </tbody>
 </table>
-
-[Full Score Table](/en/tournaments/2023/heiwa-nomi-no-maajan-taisen-scores/){:ref="nofollow"}
 
 {% endcomment %}
