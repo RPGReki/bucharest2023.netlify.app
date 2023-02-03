@@ -105,11 +105,11 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 {:.data-table-plain}
 | Time                        | Event        |
 | ---------------------------- | ------------ |
-| 08:45&#x202f;--&#x202f;10:15 | 6st Hanchan  |
+| 08:45&#x202f;--&#x202f;10:15 | 6th Hanchan  |
 | 10:15&#x202f;--&#x202f;10:30 | Break       |
-| 10:30&#x202f;--&#x202f;12:00 | 7nd Hanchan  |
+| 10:30&#x202f;--&#x202f;12:00 | 7th Hanchan  |
 | 12:00&#x202f;--&#x202f;13:00 | Lunch |
-| 13:00&#x202f;--&#x202f;14:30 | 8rd Hanchan  |
+| 13:00&#x202f;--&#x202f;14:30 | 8th Hanchan  |
 | 14:30&#x202f;--&#x202f;14:45 | Break       |
 | 14:45&#x202f;--&#x202f;16:15 | 9th Hanchan  |
 | 16:15&#x202f;--&#x202f;16:45 | Break       |
