@@ -97,7 +97,7 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 | 14:30&#x202f;--&#x202f;14:45 | Break       |
 | 14:45&#x202f;--&#x202f;16:15 | 4th Hanchan  |
 | 16:15&#x202f;--&#x202f;16:30 | Break       |
-| 16:30&#x202f;--&#x202f;18:00 | 4th Hanchan  |
+| 16:30&#x202f;--&#x202f;18:00 | 5th Hanchan  |
 
 {:.mt-3}
 ### 2nd Day (Sunday)
