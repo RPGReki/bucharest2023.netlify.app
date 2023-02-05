@@ -14,7 +14,9 @@ permalink: pretty
 
 ### Copyright
 copyright:
-  license: © RONmania 2023
+  license: © RONmania 2023, base theme by
+  name: quốc Thái “RPGReki” Chung
+  url: https://reki.wtf/about-me/
 
 ### SASS
 sass:
