@@ -9,7 +9,7 @@ The first tournament to be held in Romania, in the capital city of Bucharest as 
 
 ## Registration
 
-This 2 day tournament, which is currently pending MERS approval, will take place on the 27th and 28th of May 2023.
+This 2 day tournament, rated MERS 3+, will take place on the 27th and 28th of May 2023.
 The number of participants is limited to 60 (this number may increase with sufficient interest).
 The registration fee is 50 Euro. Included in the registration fee are 2 lunches and an assortment of non-alcoholic beverages at the venue.
 
@@ -169,3 +169,7 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 </table>
 
 {% endcomment %}
+
+## Contact
+
+Mail: rkhezam@mahjong-romania.ro
