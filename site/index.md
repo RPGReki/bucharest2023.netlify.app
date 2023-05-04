@@ -20,6 +20,8 @@ IBAN: RO22 BTRL 0480 1201 F197 64XX \\
 BIC: BTRLRO22XXX \\
 SWIFT: BTRLRO22
 
+**If you want to pay on site, please do message us about it.**
+
 ### Registration Form
 
 <form name="Registration" method="POST" action="/thanks-for-registering/" id="contactform" class="form-horizontal" data-netlify="true" netlify-honeypot="captcha">
