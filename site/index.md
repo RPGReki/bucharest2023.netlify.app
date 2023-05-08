@@ -59,7 +59,7 @@ SWIFT: BTRLRO22
 {% endcomment %}
 
 {:.h1.text-danger}
-Registration closed. Please use our [contact form](/en/contact/) to message us and to be placed on the waiting list.
+Registration closed. Please use our [contact form](/contact/) to message us and to be placed on the waiting list.
 
 {:.mt-3}
 ## Venue
