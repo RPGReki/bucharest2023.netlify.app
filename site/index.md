@@ -22,6 +22,7 @@ SWIFT: BTRLRO22
 
 **If you want to pay on site, please do message us about it.**
 
+{% comment %}
 ### Registration Form
 
 <form name="Registration" method="POST" action="/thanks-for-registering/" id="contactform" class="form-horizontal" data-netlify="true" netlify-honeypot="captcha">
@@ -55,9 +56,10 @@ SWIFT: BTRLRO22
   </fieldset>
 </form>
 
-{% comment %}
+{% endcomment %}
+
 {:.h1.text-danger}
-Registration closed. Please use our [contact form](/en/contact/) to message us and to be placed on the waiting list.{% endcomment %}
+Registration closed. Please use our [contact form](/en/contact/) to message us and to be placed on the waiting list.
 
 {:.mt-3}
 ## Venue
