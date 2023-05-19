@@ -68,7 +68,7 @@ Registration closed. Please use our [contact form](/contact/) to message us and 
 
 <a href="https://www.google.com/maps/place/AMY+Shop+Tobacco+Shop/@44.465086,26.0704614,17z/data=!4m6!3m5!1s0x40b203b4364923db:0x56792edac4e90d44!8m2!3d44.4644937!4d26.0764006!16s%2Fg%2F11jggbp0_l"><img src="/images/map.png" alt="AMY Shop and Restaurant, Strada Clucerului 85, București"></a>
 
-<figcaption><a href="https://www.google.com/maps/place/AMY+Shop+Tobacco+Shop/@44.465086,26.0704614,17z/data=!4m6!3m5!1s0x40b203b4364923db:0x56792edac4e90d44!8m2!3d44.4644937!4d26.0764006!16s%2Fg%2F11jggbp0_l">Restaurant Tom<br>
+<figcaption><a href="https://www.google.com/maps/place/AMY+Shop+Tobacco+Shop/@44.465086,26.0704614,17z/data=!4m6!3m5!1s0x40b203b4364923db:0x56792edac4e90d44!8m2!3d44.4644937!4d26.0764006!16s%2Fg%2F11jggbp0_l">AMY Shop and Restaurant<br>
 Strada Clucerului 85, București</a>
 </figcaption>
 </figure>
