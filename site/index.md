@@ -66,14 +66,14 @@ Registration closed. Please use our [contact form](/contact/) to message us and 
 
 <figure>
 
-<a href="https://www.google.com/maps/place/Restaurant+Tom/@44.4659986,26.0675864,16.75z/data=!4m6!3m5!1s0x40b202187e9a829f:0xf5af3b5c6dabe5bd!8m2!3d44.4651256!4d26.0685737!16s%2Fg%2F11c1qz3w_z"><img src="/images/map.png" alt="Restaurant Tom, Bulevardul Ion Mihalache 128, București"></a>
+<a href="https://www.google.com/maps/place/AMY+Shop+Tobacco+Shop/@44.465086,26.0704614,17z/data=!4m6!3m5!1s0x40b203b4364923db:0x56792edac4e90d44!8m2!3d44.4644937!4d26.0764006!16s%2Fg%2F11jggbp0_l"><img src="/images/map.png" alt="AMY Shop and Restaurant, Strada Clucerului 85, București"></a>
 
-<figcaption><a href="https://www.google.com/maps/place/Restaurant+Tom/@44.4659986,26.0675864,16.75z/data=!4m6!3m5!1s0x40b202187e9a829f:0xf5af3b5c6dabe5bd!8m2!3d44.4651256!4d26.0685737!16s%2Fg%2F11c1qz3w_z">Restaurant Tom<br>
-Bulevardul Ion Mihalache 128, București</a>
+<figcaption><a href="https://www.google.com/maps/place/AMY+Shop+Tobacco+Shop/@44.465086,26.0704614,17z/data=!4m6!3m5!1s0x40b203b4364923db:0x56792edac4e90d44!8m2!3d44.4644937!4d26.0764006!16s%2Fg%2F11jggbp0_l">Restaurant Tom<br>
+Strada Clucerului 85, București</a>
 </figcaption>
 </figure>
 
-The venue is located near the Tram Stop on Piata Domenii (Line 24 and 45), Bus Station Piata Domenii (Line 205,282,381), the closest Metro Station is 1 Mai (Green Line M4) which is about a 10-15 minute walk.
+The venue is located near the Tram Stop on Caşin (Line 41), Bus Station Arcul de Triumf (Line 361), the closest Metro Station is 1 Mai (Green Line M4) which is about a 10-15 minute walk.
 
 ### Public Transport
 
