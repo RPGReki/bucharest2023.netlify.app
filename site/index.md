@@ -73,7 +73,7 @@ Strada Clucerului 85, București</a>
 </figcaption>
 </figure>
 
-The venue is located near the Tram Stop on Caşin (Line 41), Bus Station Arcul de Triumf (Line 361), the closest Metro Station is 1 Mai (Green Line M4) which is about a 10-15 minute walk.
+The venue is located near the Tram Stop on Caşin (Line 41), Bus Station Arcul de Triumf (Line 361), the closest Metro Station is Aviatorilor (Line M2) which is about a 10-15 minute walk.
 
 ### Public Transport
 
