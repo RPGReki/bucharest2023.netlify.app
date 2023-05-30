@@ -170,7 +170,7 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 {% for p in site.data.tournaments.202305.standings %}
 <tr>
 <td>{{ p.Rank }}</td>
-<td>{{ p.Surname }}, {{ p.GivenName }}</td>
+<td>{{ p.Surname }}, {{ p.Name }}</td>
 <td>{{ p.EmaID }}</td>
 <td>{{ p.Total }}</td>
 </tr>
