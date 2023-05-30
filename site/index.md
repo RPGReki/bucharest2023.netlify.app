@@ -13,12 +13,14 @@ This 2 day tournament, rated MERS 3+, will take place on the 27th and 28th of Ma
 The number of participants is limited to 60 (this number may increase with sufficient interest).
 The registration fee is 50 Euro. Included in the registration fee are 2 lunches and an assortment of non-alcoholic beverages at the venue.
 
+{% comment %}
 If possible, please transfer this 3 weeks before the start of the tournament (the 6th of May) to the following account:
 
 Account Holder: Rene Khezam\\
 IBAN: RO22 BTRL 0480 1201 F197 64XX \\
 BIC: BTRLRO22XXX \\
 SWIFT: BTRLRO22
+{% endcomment %}
 
 **If you want to pay on site, please do message us about it.**
 
@@ -119,6 +121,7 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 | 16:15&#x202f;--&#x202f;16:45 | Break       |
 | 16:45&#x202f;--&#x202f;17:00 | Award Ceremony |
 
+{% comment %}
 {:.mt-3}
 ## Participants
 
@@ -148,8 +151,9 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 {% endfor %}
 </tbody>
 </table>
+{% endcomment %}
 
-{% comment %}
+{:.mt-3}
 ## Participants / Standings
 
 <table class="data-table">
@@ -157,22 +161,23 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 <tr>
 <th>Rank</th>
 <th>Surname, Given Name</th>
+<th>EMA ID</th>
 <th>Total</th>
 </tr>
 </thead>
 <tbody>
 {% assign skipped = 0 %}
-{% for p in site.data.tournaments.202305 %}
+{% for p in site.data.tournaments.202305.standings %}
 <tr>
 <td>{{ p.Rank }}</td>
 <td>{{ p.Surname }}, {{ p.GivenName }}</td>
+<td>{{ p.EmaID }}
 <td>{{ p.Total }}</td>
 </tr>
 {% endfor %}
 </tbody>
 </table>
 
-{% endcomment %}
 
 ## Contact
 
