@@ -178,7 +178,7 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 </tbody>
 </table>
 
-
+{:.mt-3}
 ## Contact
 
 Mail: rkhezam@mahjong-romania.ro
