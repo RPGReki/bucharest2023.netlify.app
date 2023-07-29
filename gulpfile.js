@@ -67,7 +67,7 @@ gulp.task("get-participants", function (done) {
                     }
 
                     // write our data to a file where Jekyll can get it.
-                    fs.writeFile(buildSrc + "site/_data/tournaments/202305/participants.json", JSON.stringify(participants, null, 2), function(err) {
+                    fs.writeFile(buildSrc + "site/_data/tournaments/202311/participants.json", JSON.stringify(participants, null, 2), function(err) {
                         if(err) {
                             console.log(err);
                             done();
@@ -78,7 +78,7 @@ gulp.task("get-participants", function (done) {
                     });
                 } else {
                     // write our data to a file where Jekyll can get it.
-                    fs.writeFile(buildSrc + "site/_data/tournaments/202305/participants.json", JSON.stringify(participants, null, 2), function(err) {
+                    fs.writeFile(buildSrc + "site/_data/tournaments/202311/participants.json", JSON.stringify(participants, null, 2), function(err) {
                         if(err) {
                             console.log(err);
                             done();

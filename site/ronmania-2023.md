@@ -1,28 +1,30 @@
 ---
-title: Buchariichi 2023
+title: RONmania 2023
 layout: 2021/data_table
 robots: noindex
 ---
-Welcome to the Buchariichi 2023!
-If you're looking for data of the previous tournament please go to the [RONmania Open 2023](/ronmania-2023/) page.
+Welcome to the RONmania Open 2023!
 
-The second tournament to be held in Romania, in the capital city of Bucharest as its host!
+The first tournament to be held in Romania, in the capital city of Bucharest as its host!
 
 ## Registration
 
-This 2 day tournament, rated MERS 3+, will take place on the 25th and 26th of November 2023.
+This 2 day tournament, rated MERS 3+, will take place on the 27th and 28th of May 2023.
 The number of participants is limited to 60 (this number may increase with sufficient interest).
-The registration fee is 55 Euro. Included in the registration fee are 2 lunches and an assortment of non-alcoholic beverages at the venue.
+The registration fee is 50 Euro. Included in the registration fee are 2 lunches and an assortment of non-alcoholic beverages at the venue.
 
+{% comment %}
 If possible, please transfer this 3 weeks before the start of the tournament (the 6th of May) to the following account:
 
 Account Holder: Rene Khezam\\
 IBAN: RO22 BTRL 0480 1201 F197 64XX \\
 BIC: BTRLRO22XXX \\
 SWIFT: BTRLRO22
+{% endcomment %}
 
 **If you want to pay on site, please do message us about it.**
 
+{% comment %}
 ### Registration Form
 
 <form name="Registration" method="POST" action="/thanks-for-registering/" id="contactform" class="form-horizontal" data-netlify="true" netlify-honeypot="captcha">
@@ -56,9 +58,6 @@ SWIFT: BTRLRO22
   </fieldset>
 </form>
 
-{% comment %}
-{:.h1.text-danger}
-Registration closed. Please use our [contact form](/contact/) to message us and to be placed on the waiting list.
 {% endcomment %}
 
 {:.mt-3}
@@ -119,6 +118,7 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 | 16:15&#x202f;--&#x202f;16:45 | Break       |
 | 16:45&#x202f;--&#x202f;17:00 | Award Ceremony |
 
+{% comment %}
 {:.mt-3}
 ## Participants
 
@@ -135,7 +135,7 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 </thead>
 <tbody>
 {% assign skipped = 0 %}
-{% for p in site.data.tournaments.202311.participants %}
+{% for p in site.data.tournaments.202305.participants %}
 {% if p.status == "DEL" %}{% assign skipped = skipped | plus: 1 %}{% continue %}{% endif %}
 <tr>
 <td>{{ forloop.index | minus: skipped }}</td>
@@ -148,8 +148,8 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 {% endfor %}
 </tbody>
 </table>
+{% endcomment %}
 
-{% comment %}
 {:.mt-3}
 ## Participants / Standings
 
@@ -174,7 +174,6 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 {% endfor %}
 </tbody>
 </table>
-{% endcomment %}
 
 {:.mt-3}
 ## Contact
