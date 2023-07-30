@@ -17,7 +17,7 @@ The registration fee is 55 Euro. Included in the registration fee are 2 lunches 
 If possible, please transfer this 3 weeks before the start of the tournament (the 5th of November) to the following account:
 
 Account Holder: Rene Khezam\\
-IBAN: RO22 BTRL 0480 1201 F197 64XX \\
+IBAN: RO66 BTRL EURC RT00 F197 6401 \\
 BIC: BTRLRO22XXX \\
 SWIFT: BTRLRO22
 
