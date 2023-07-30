@@ -1,12 +1,12 @@
 ## Basic Configuration
-title: "RONmania 2023"
+title: "Romania Riichi Open"
 description: ""
 source: site
 destination: docs
 
 timezone: Europe/Berlin
 
-url: 'https://ronmania2023.reki.wtf'
+url: 'https://buchariichi2023.reki.wtf'
 
 excerpt_separator: "<!--more-->"
   
@@ -14,7 +14,7 @@ permalink: pretty
 
 ### Copyright
 copyright:
-  license: © RONmania 2023, base theme by
+  license: © Romania Riichi Open 2023, base theme by
   name: quốc Thái “RPGReki” Chung
   url: https://reki.wtf/about-me/
 

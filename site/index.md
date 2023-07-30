@@ -11,16 +11,17 @@ The second tournament to be held in Romania, in the capital city of Bucharest as
 ## Registration
 
 This 2 day tournament, rated MERS 3+, will take place on the 25th and 26th of November 2023.
-The number of participants is limited to 60 (this number may increase with sufficient interest).
+The number of participants is limited to 48.
 The registration fee is 55 Euro. Included in the registration fee are 2 lunches and an assortment of non-alcoholic beverages at the venue.
 
-If possible, please transfer this 3 weeks before the start of the tournament (the 6th of May) to the following account:
+If possible, please transfer this 3 weeks before the start of the tournament (the 5th of November) to the following account:
 
 Account Holder: Rene Khezam\\
 IBAN: RO22 BTRL 0480 1201 F197 64XX \\
 BIC: BTRLRO22XXX \\
 SWIFT: BTRLRO22
 
+Alternatively, you can page in cash 275 Lei/55 Euroon on site.
 **If you want to pay on site, please do message us about it.**
 
 ### Registration Form

@@ -3,7 +3,8 @@ layout: null
 sitemap: false
 permalink: /_redirects
 ---
-https://ronmania2023.netlify.app/*          {{"/" | absolute_url }}:splat                        301!
+https://ronmania2023.netlify.app/*          {{"/ronmania-2023/" | absolute_url }}                        301!
+https://ronmania2023.reki.wtf/*             {{"/ronmania-2023/" | absolute_url }}                        301!
 
 ## UX stuff
 
