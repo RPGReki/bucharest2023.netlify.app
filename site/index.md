@@ -26,6 +26,7 @@ Alternatively, you can page in cash 275 Lei/55 Euroon on site.
 
 ### Registration Form
 
+{% comment %}
 <form name="Registration" method="POST" action="/thanks-for-registering/" id="contactform" class="form-horizontal" data-netlify="true" netlify-honeypot="captcha">
   <fieldset id="contact">
     <div>
@@ -56,11 +57,10 @@ Alternatively, you can page in cash 275 Lei/55 Euroon on site.
     </div>
   </fieldset>
 </form>
-
-{% comment %}
-{:.h1.text-danger}
-Registration closed. Please use our [contact form](/contact/) to message us and to be placed on the waiting list.
 {% endcomment %}
+
+{:.h1.text-danger}
+Registration closed. Please use our [contact form](/contact/) to message us and to be placed on the waiting list. 
 
 {:.mt-3}
 ## Venue
