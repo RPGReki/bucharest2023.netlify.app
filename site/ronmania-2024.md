@@ -21,7 +21,7 @@ IBAN: RO66 BTRL EURC RT00 F197 6401\\
 BIC: BTRLRO22XXX\\
 SWIFT: BTRLRO22
 
-Alternatively, you can page in cash 275 Lei/45 Euro on on site.
+Alternatively, you can page in cash 225 Lei/45 Euro on on site.
 **If you want to pay on site, please do message us about it.**
 
 ### Registration Form
@@ -124,7 +124,7 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 | 13:45&#x202f;--&#x202f;14:15 | Lunch |
 | 14:15&#x202f;--&#x202f;15:45 | 8th Hanchan  |
 | 16:00&#x202f;--&#x202f;17:30 | 9th Hanchan  |
-| 17:45&#x202f;--&#x202f;17:00 | Award Ceremony |
+| 17:45&#x202f;-- | Award Ceremony |
 |  | Possible Social Play and Pre-Arranged Dinner |
 
 {:.mt-3}
