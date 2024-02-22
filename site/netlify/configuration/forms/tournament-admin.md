@@ -11,7 +11,7 @@ Last Update: {{ site.time | date: '%Y-%m-%d %H:%M %Z'}}
 <table>
 <tr><th>Given Name</th><th>Surname</th><th>EMA Number</th><th>eMail</th><th>Date</th><th>Country</th><th>Status</th></tr>
 
-{% for p in site.data.tournaments.202311.participants %}
+{% for p in site.data.tournaments.202405.participants %}
 <tr><td>{{ p.given_name }}</td><td>{{ p.surname }}</td><td>{{ p.ema_id }}</td><td>{{ p.email }}</td><td>{{ p.date | date: "%Y-%m-%d %H:%M" }}</td><td>{{ p.country }}</td>
 <td>{% unless p.status == "DEF" %}
 <form name="Administration" method="POST" action="/eingabe-wird-verabeitet/" data-netlify="true">
