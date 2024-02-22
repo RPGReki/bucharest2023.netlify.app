@@ -1,0 +1,178 @@
+[
+  {
+    "id": "cf7d2ebed88d698e4a0550f70f3f2e82",
+    "date": "2023-01-23T16:05:42.406Z",
+    "lang": "en-US",
+    "given_name": "Sample",
+    "surname": "Player",
+    "ema_id": "",
+    "email": "sample@player.tld",
+    "country": "N/A",
+    "status": ""
+  },
+  {
+    "id": "9dd04c91eaa1a401f12898cc35dc5641",
+    "date": "2023-07-29T10:37:55.822Z",
+    "lang": "en-US",
+    "given_name": "Test ",
+    "surname": "Player",
+    "ema_id": "",
+    "email": "mail@invalid.tld",
+    "country": "Test",
+    "status": ""
+  },
+  {
+    "id": "de2754b2a03c75d875143ba61647d2dc",
+    "date": "2023-07-30T15:44:43.464Z",
+    "lang": "en-US",
+    "given_name": "Mihnea",
+    "surname": "Petraru",
+    "ema_id": "25000003",
+    "email": "mihnea.petraru@yahoo.com",
+    "country": "Romania",
+    "status": ""
+  },
+  {
+    "id": "52917984e59fe00823f8ac8bb6aef42c",
+    "date": "2023-07-30T16:26:37.161Z",
+    "lang": "en-US",
+    "given_name": "David",
+    "surname": "Gădălean",
+    "ema_id": "",
+    "email": "o.rootedavid.o@gmail.com",
+    "country": "Romania",
+    "status": ""
+  },
+  {
+    "id": "256529564294271a6646deec86ec497d",
+    "date": "2023-07-30T17:04:44.943Z",
+    "lang": "en-US",
+    "given_name": "Manuel",
+    "surname": "Kameda-Schlich",
+    "ema_id": "05100166",
+    "email": "manuel-schlich@live.de",
+    "country": "Deutschland",
+    "status": ""
+  },
+  {
+    "id": "61f303ded087c218641ee54ceace26fd",
+    "date": "2023-07-31T07:09:53.694Z",
+    "lang": "en-US",
+    "given_name": "Chris",
+    "surname": "Luntraru",
+    "ema_id": "",
+    "email": "chris.luntraru@gmail.com",
+    "country": "Romania",
+    "status": ""
+  },
+  {
+    "id": "5571799d0a7e59764835f91b6e0a8282",
+    "date": "2023-08-03T19:48:43.766Z",
+    "lang": "en-US",
+    "given_name": "Hiroshi ",
+    "surname": "Kameda ",
+    "ema_id": "05100181",
+    "email": "oniyanma_nouta@yahoo.co.jp",
+    "country": "Germany ",
+    "status": ""
+  },
+  {
+    "id": "217c46dace76724eec9b0d3b976af239",
+    "date": "2023-08-03T20:54:17.014Z",
+    "lang": "en-US",
+    "given_name": "Ivar",
+    "surname": "Bouwman",
+    "ema_id": "08010737",
+    "email": "ivarbouwman@hotmail.com",
+    "country": "Netherlands",
+    "status": ""
+  },
+  {
+    "id": "11fc5af50bc32474f07fa40e7e5a85e4",
+    "date": "2023-08-04T17:33:15.889Z",
+    "lang": "en-US",
+    "given_name": "Frank",
+    "surname": "Tobias",
+    "ema_id": "05100167",
+    "email": "frank_94@live.de",
+    "country": "Deutschland",
+    "status": ""
+  },
+  {
+    "id": "bad2a7eac1518e14c3f8c0246b2175cf",
+    "date": "2023-08-14T11:38:15.485Z",
+    "lang": "en-US",
+    "given_name": "Pieter",
+    "surname": "Potmeer",
+    "ema_id": "08010436",
+    "email": "ppotmeer@gmail.com",
+    "country": "Netherlands",
+    "status": ""
+  },
+  {
+    "id": "7f47a65f8e068fd5b4b4ff7cfc881c62",
+    "date": "2023-08-18T10:02:46.879Z",
+    "lang": "en-US",
+    "given_name": "Katarzyna ",
+    "surname": "Chabelska ",
+    "ema_id": "19000080",
+    "email": "k.chabelsk@gmail.com",
+    "country": "Poland",
+    "status": ""
+  },
+  {
+    "id": "d7926e20053ce5c07e3065d65c7ae4cd",
+    "date": "2023-08-20T19:31:41.085Z",
+    "lang": "en-US",
+    "given_name": "Anna",
+    "surname": "Zubenko",
+    "ema_id": "21000014",
+    "email": "anna_zubenko@fastmail.com",
+    "country": "Ukraine",
+    "status": ""
+  },
+  {
+    "id": "a822cb4e7d273c5a9b9c50f3fb4ddcd5",
+    "date": "2023-08-20T19:32:20.951Z",
+    "lang": "en-US",
+    "given_name": "Jasper",
+    "surname": "Germeys",
+    "ema_id": "09990047",
+    "email": "jasper.germeys@gmail.com",
+    "country": "Sweden",
+    "status": ""
+  },
+  {
+    "id": "0ae9b7535e1f32e3f4c1818bb1bc93b2",
+    "date": "2023-08-22T02:59:56.174Z",
+    "lang": "en-US",
+    "given_name": "Grant",
+    "surname": "Mahoney",
+    "ema_id": "24000003",
+    "email": "trollofnova@gmail.com",
+    "country": "Canada",
+    "status": ""
+  },
+  {
+    "id": "d40b19ed9c230e8bf8726af9eb8c4a33",
+    "date": "2023-08-22T09:24:55.879Z",
+    "lang": "en-US",
+    "given_name": "Michael",
+    "surname": "van der Sluijs",
+    "ema_id": "25000002",
+    "email": "michaelvandersluijs@live.nl",
+    "country": "Romania",
+    "status": ""
+  },
+  {
+    "id": "b576349b6848a85703d3531d0246be5b",
+    "date": "2023-08-23T11:50:15.478Z",
+    "lang": "en-US",
+    "given_name": "Mirela Lucia",
+    "surname": "Khezam",
+    "ema_id": "25000005",
+    "email": "khezammirela@yahoo.com",
+    "country": "Romania",
+    "status": ""
+  }
+]

@@ -71,9 +71,9 @@ The venue is a beautiful boutique hotel in the middle of one of Bucharest's most
 
 <figure>
 
-<a href="https://www.google.com/maps/place/AMY+Shop+Tobacco+Shop/@44.465086,26.0704614,17z/data=!4m6!3m5!1s0x40b203b4364923db:0x56792edac4e90d44!8m2!3d44.4644937!4d26.0764006!16s%2Fg%2F11jggbp0_l"><img src="/images/map.png" alt=""></a>
+<a href="https://www.google.com/maps/dir//Strada+Labirint+113,+Bucure%C8%99ti+030167,+Romania/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x40b1ff243e329bbd:0x8da1918a702a9a44?sa=X&ved=2ahUKEwiz1Mym4r-EAxV1TKQEHbbHCDoQwwV6BAgSEAA"><img src="/images/map-2024-5.png" alt="Labirint Hotel"></a>
 
-<figcaption><a href=""></a>
+<figcaption><a href="https://www.google.com/maps/dir//Strada+Labirint+113,+Bucure%C8%99ti+030167,+Romania/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x40b1ff243e329bbd:0x8da1918a702a9a44?sa=X&ved=2ahUKEwiz1Mym4r-EAxV1TKQEHbbHCDoQwwV6BAgSEAA">Labirint Hotel</a>
 </figcaption>
 </figure>
 
@@ -87,8 +87,6 @@ If we fill more rooms we can potentially lower the entry fee and you will be iss
 
 (We're still working out the prices I'll let you know later)
 </div>
-
-The venue is located near the Tram Stop on Caşin (Line 41), Bus Station Arcul de Triumf (Line 361), the closest Metro Station is Aviatorilor (Line M2) which is about a 10 minute walk.
 
 ### Public Transport
 

@@ -120,6 +120,7 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 | 16:15&#x202f;--&#x202f;16:45 | Break       |
 | 16:45&#x202f;--&#x202f;17:00 | Award Ceremony |
 
+{% comment %}
 {:.mt-3}
 ## Participants
 
@@ -149,8 +150,8 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 {% endfor %}
 </tbody>
 </table>
+{% endcomment %}
 
-{% comment %}
 {:.mt-3}
 ## Participants / Standings
 
@@ -165,7 +166,7 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 </thead>
 <tbody>
 {% assign skipped = 0 %}
-{% for p in site.data.tournaments.202305.standings %}
+{% for p in site.data.tournaments.202311.standings %}
 <tr>
 <td>{{ p.Rank }}</td>
 <td>{{ p.Surname }} {{ p.Name }}</td>
@@ -175,7 +176,6 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 {% endfor %}
 </tbody>
 </table>
-{% endcomment %}
 
 {:.mt-3}
 ## Contact
