@@ -82,10 +82,6 @@ If you wish to book rooms here, please email us and we will take care of it for 
 
 There are rooms available for multiple different party sizes of up to 5 people per room.
 There is only a limited amount of rooms available (20) so don't wait on it if you wish to stay here.
-
-If we fill more rooms we can potentially lower the entry fee and you will be issued a small refund if we do.
-
-(We're still working out the prices I'll let you know later)
 </div>
 
 ### Public Transport
