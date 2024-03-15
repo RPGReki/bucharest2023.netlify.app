@@ -9,10 +9,8 @@ The third tournament to be held in Romania, in the capital city of Bucharest as 
 
 
 <figure>
-
-<img src="/images/-card.svg" alt="RONmania 2024"></a>
-
-<figcaption>RONmania 2024 Logo by Karmae</figcaption>
+<img src="/images/-card.svg" alt="RONmania 2024">
+<figcaption>RONmania 2024 Logo by karmae</figcaption>
 </figure>
 
 
