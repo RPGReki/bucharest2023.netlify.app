@@ -7,6 +7,15 @@ Welcome to the RONmania Open 2024!
 
 The third tournament to be held in Romania, in the capital city of Bucharest as its host!
 
+
+<figure>
+
+<img src="/images/-card.svg" alt="RONmania 2024"></a>
+
+<figcaption>RONmania 2024 Logo by Karmae</figcaption>
+</figure>
+
+
 ## Registration
 
 This 2 day tournament, rated MERS 2+, will take place on the 25th and 26th of May 2024.
@@ -83,6 +92,16 @@ If you wish to book rooms here, please email us and we will take care of it for 
 There are rooms available for multiple different party sizes of up to 5 people per room.
 There is only a limited amount of rooms available (20) so don't wait on it if you wish to stay here.
 </div>
+
+The breakfast is a buffet style including drinks.
+
+#### Single Room
+Room only: 250 lei/50 Euro per night\\
+Room + Breakfast: 300 lei/60 Euro per night
+
+##### Double Room:
+Room only: 350 lei/75 euro per night
+Room + Breakfast: 400 lei/80 euro per night
 
 ### Public Transport
 
