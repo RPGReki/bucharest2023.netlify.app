@@ -144,6 +144,8 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 {:.mt-3}
 ## Participants
 
+last updated on {{ "now" | date: "%Y-%m-%d %H:%M" }} UTC.
+
 <table class="data-table">
 <thead>
 <tr>
@@ -157,8 +159,10 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 </thead>
 <tbody>
 {% assign skipped = 0 %}
+{% assign countries = "" | split: "," %}
 {% for p in site.data.tournaments.202405.participants %}
 {% if p.status == "DEL" %}{% assign skipped = skipped | plus: 1 %}{% continue %}{% endif %}
+{% assign countries = countries | push: p.country %}
 <tr>
 <td>{{ forloop.index | minus: skipped }}</td>
 <td>{{ p.given_name }}</td>
@@ -170,6 +174,8 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 {% endfor %}
 </tbody>
 </table>
+
+Players from a total of {{ countries | uniq | size }} countries have signed up.
 
 {% comment %}
 {:.mt-3}
