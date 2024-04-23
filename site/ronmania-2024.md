@@ -93,9 +93,10 @@ There is only a limited amount of rooms available (20) so don't wait on it if yo
 
 The breakfast is a buffet style including drinks.
 
-#### Single Room
-Room only: 250 lei/50 Euro per night\\
-Room + Breakfast: 300 lei/60 Euro per night
+#### ~~Single Room~~
+~~Room only: 250 lei/50 Euro per night~~\\
+~~Room + Breakfast: 300 lei/60 Euro per night~~\\
+single rooms are no longer available
 
 ##### Double Room:
 Room only: 350 lei/75 euro per night
