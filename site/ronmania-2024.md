@@ -163,7 +163,7 @@ last updated on {{ "now" | date: "%Y-%m-%d %H:%M" }} UTC.
 {% for p in site.data.tournaments.202405.participants %}
 {% if p.status == "DEL" %}{% assign skipped = skipped | plus: 1 %}{% continue %}{% endif %}
 {% assign country = p.country | strip %}
-{% if country == "Deutschland" %}{% country = "Germany" %}{% endif %}
+{% if country == "Deutschland" %}{% assign country = "Germany" %}{% endif %}
 {% assign countries = countries | push: country %}
 <tr>
 <td>{{ forloop.index | minus: skipped }}</td>
