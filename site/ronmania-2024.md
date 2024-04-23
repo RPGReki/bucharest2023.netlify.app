@@ -170,7 +170,7 @@ last updated on {{ "now" | date: "%Y-%m-%d %H:%M" }} UTC.
 <td>{{ p.given_name }}</td>
 <td>{{ p.surname }}</td>
 <td>{{ p.ema_id }}</td>
-<td>{{ p.country }}</td>
+<td>{{ country }}</td>
 <td>{{ p.status }}</td>
 </tr>
 {% endfor %}
