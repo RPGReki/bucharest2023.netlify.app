@@ -162,7 +162,8 @@ last updated on {{ "now" | date: "%Y-%m-%d %H:%M" }} UTC.
 {% assign countries = "" | split: "," %}
 {% for p in site.data.tournaments.202405.participants %}
 {% if p.status == "DEL" %}{% assign skipped = skipped | plus: 1 %}{% continue %}{% endif %}
-{% assign countries = countries | push: p.country %}
+{% country = p.country | strip %}
+{% assign countries = countries | push: country %}
 <tr>
 <td>{{ forloop.index | minus: skipped }}</td>
 <td>{{ p.given_name }}</td>
@@ -175,7 +176,7 @@ last updated on {{ "now" | date: "%Y-%m-%d %H:%M" }} UTC.
 </tbody>
 </table>
 
-Players from a total of {{ countries | uniq | size }} countries have signed up: {{ countries | uniq }}
+Players from a total of {{ countries | uniq | size }} countries have signed up: {{ countries | uniq | join: ', '}}
 
 {% comment %}
 {:.mt-3}
