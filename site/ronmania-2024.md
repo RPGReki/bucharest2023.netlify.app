@@ -141,6 +141,7 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 | 17:45&#x202f;-- | Award Ceremony |
 |  | Possible Social Play and Pre-Arranged Dinner |
 
+{% comment %}
 {:.mt-3}
 ## Participants
 
@@ -179,7 +180,8 @@ last updated on {{ "now" | date: "%Y-%m-%d %H:%M" }} UTC.
 
 Players from a total of {{ countries | uniq | size }} countries have signed up: {{ countries | uniq | sort | join: ', '}}
 
-{% comment %}
+{% endcomment %}
+
 {:.mt-3}
 ## Participants / Standings
 
@@ -204,7 +206,7 @@ Players from a total of {{ countries | uniq | size }} countries have signed up: 
 {% endfor %}
 </tbody>
 </table>
-{% endcomment %}
+
 
 {:.mt-3}
 ## Contact
