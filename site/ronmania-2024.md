@@ -207,7 +207,6 @@ Players from a total of {{ countries | uniq | size }} countries have signed up: 
 </tbody>
 </table>
 
-
 {:.mt-3}
 ## Contact
 
