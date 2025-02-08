@@ -9,6 +9,7 @@ https://ronmania2023.reki.wtf/*             {{"/ronmania-2023/" | absolute_url }
 https://buchariichi2023.reki.wtf/*          {{"/buchariichi-2023/" | absolute_url }}                     301!
 
 https://ronmania2024.reki.wtf/*             {{"/ronmania-2024/" | absolute_url }}                        301!
+
 ## UX stuff
 
 /                                           {{"/ronmania-2025/" | absolute_url }}                        302!

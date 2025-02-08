@@ -6,7 +6,7 @@ destination: docs
 
 timezone: Europe/Berlin
 
-url: 'https://ronmania2024.reki.wtf'
+url: 'https://ronmania.reki.wtf'
 
 excerpt_separator: "<!--more-->"
   
@@ -14,7 +14,7 @@ permalink: pretty
 
 ### Copyright
 copyright:
-  license: © Romania Riichi Open 2023, base theme by
+  license: © Romania Riichi Open 2025, base theme by
   name: q. Thái “RPGReki” Chung
   url: https://reki.wtf/about-me/
 
