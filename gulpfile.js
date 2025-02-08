@@ -62,7 +62,8 @@ gulp.task("get-comments", function (done) {
                             console.log(data.id+ " set to " + data.action + ".");
                         }
                     }
-
+                }
+            });
             // write our data to a file where Jekyll can get it.
             fs.writeFile(buildSrc + "site/_data/comments.json", JSON.stringify(comments, null, 2), function(err) {
                 if(err) {
@@ -73,6 +74,7 @@ gulp.task("get-comments", function (done) {
                     done();
                 }
             });
+            done();
 
         } else {
             console.log("Couldn't get comments from Netlify");
@@ -259,6 +261,7 @@ gulp.task("get-participants", function (done) {
             console.log("Couldn't get registration data from Netlify");
             done();
         }
+        done();
     });
 });
 
