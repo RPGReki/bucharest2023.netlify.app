@@ -2,12 +2,12 @@ SHELL = /bin/bash
 
 # user configuration
 
-URL = https://bucharest2023.netlify.app
+URL = https://bucharest.netlify.app
 
 # automation begins here
 GLOBAL_XML = /sitemap.xml 
 
-PARTICIPANTS_FILES = site/_data/tournaments/202305/participants.json
+PARTICIPANTS_FILES = site/_data/tournaments/202505/participants.json
 
 COMMON_NORMAL_PREREQUESITES = 
 
@@ -66,7 +66,7 @@ clean:
 site/_data/comments.json:
 	gulp get-comments
 
-site/_data/tournaments/202305/%:
+site/_data/tournaments/202505/%:
 	gulp get-$(*:.json=)
 
 ## Additional Tasks: Netlify

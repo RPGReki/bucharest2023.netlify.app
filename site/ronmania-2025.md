@@ -1,39 +1,38 @@
 ---
-title: RONmania 2024
+title: RONmania 2025
 layout: 2021/data_table
 robots: noindex
 ---
-Welcome to the RONmania Open 2024!
+Welcome to the RONmania Open 2025!
 
-The third tournament to be held in Romania, in the capital city of Bucharest as its host!
+The fourth tournament to be held in Romania, in the capital city of Bucharest as its host!
 
-
+{% comment %}
 <figure>
 <img src="/images/2024-card.svg" alt="RONmania 2024">
 <figcaption>RONmania 2024 Logo by karmae</figcaption>
 </figure>
-
+{% endcomment %}
 
 ## Registration
 
-This 2 day tournament, rated MERS 2+, will take place on the 25th and 26th of May 2024.
+This 2 day tournament, rated MERS 2+, will take place on the 10th and 11h of May 2025.
 The number of participants is limited to 60.
-The registration fee is 45 Euro.
+The registration fee is TBA.
 Included in the registration fee are 2 lunches and an assortment of non-alcoholic beverages at the venue.
 
-If possible, please transfer this 3 weeks before the start of the tournament (the 4th of May) to the following account:
+If possible, please transfer this 3 weeks before the start of the tournament to the following account:
 
 Account Holder: Rene Khezam\\
 IBAN: RO66 BTRL EURC RT00 F197 6401\\
 BIC: BTRLRO22XXX\\
 SWIFT: BTRLRO22
 
-Alternatively, you can page in cash 225 Lei/45 Euro on on site.
+Alternatively, you can page in cash on site.
 **If you want to pay on site, please do message us about it.**
 
 ### Registration Form
 
-{% comment %}
 <form name="Registration" method="POST" action="/thanks-for-registering/" id="contactform" class="form-horizontal" data-netlify="true" netlify-honeypot="captcha">
   <fieldset id="contact">
     <div>
@@ -64,18 +63,18 @@ Alternatively, you can page in cash 225 Lei/45 Euro on on site.
     </div>
   </fieldset>
 </form>
-{% endcomment %}
 
+{% comment %}
 {:.h1.text-danger}
 Registration closed. Please use our [contact form](/contact/) to message us and to be placed on the waiting list. 
+{% endcomment %}
 
 {:.mt-3}
 ## Venue
 
-The venue is a beautiful boutique hotel in the middle of one of Bucharest's most historic neighbourhoods.
-[Labirint Hotel](https://labirinthotel.ro/en/): Strada Labirint 113, București 030167
+Ahmad Cuisine - Restaurant: Șos. București-Ploiești 10, București 011472
 
-
+{% comment %}
 <figure>
 
 <a href="https://www.google.com/maps/dir//Strada+Labirint+113,+Bucure%C8%99ti+030167,+Romania/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x40b1ff243e329bbd:0x8da1918a702a9a44?sa=X&ved=2ahUKEwiz1Mym4r-EAxV1TKQEHbbHCDoQwwV6BAgSEAA"><img src="/images/map-2024-5.png" alt="Labirint Hotel"></a>
@@ -102,11 +101,16 @@ single rooms are no longer available
 Room only: 350 lei/75 euro per night
 Room + Breakfast: 400 lei/80 euro per night
 
+{% endcomment %}
+
 ### Public Transport
 
+TBA
+
+{% comment %}
 For trams and buses, you can send a text message to 7458 with ''C'', you will be charged 3 lei (0.6 Euro) which will allow you to travel on any tram or bus line for an hour.
 For the metro, you can purchase a recyclable metro card with 2 to 10 entry passes for 3 lei/pass (0.6 Euro/pass).
-
+{% endcomment %}
 
 {:.mt-3}
 ## Format and Timetable
@@ -141,7 +145,6 @@ This tournament has 9 hanchan with 90 minutes each and will be played according 
 | 17:45&#x202f;-- | Award Ceremony |
 |  | Possible Social Play and Pre-Arranged Dinner |
 
-{% comment %}
 {:.mt-3}
 ## Participants
 
@@ -164,7 +167,6 @@ last updated on {{ "now" | date: "%Y-%m-%d %H:%M" }} UTC.
 {% for p in site.data.tournaments.202405.participants %}
 {% if p.status == "DEL" %}{% assign skipped = skipped | plus: 1 %}{% continue %}{% endif %}
 {% assign country = p.country | strip %}
-{% if country == "Deutschland" %}{% assign country = "Germany" %}{% endif %}
 {% assign countries = countries | push: country %}
 <tr>
 <td>{{ forloop.index | minus: skipped }}</td>
@@ -178,9 +180,9 @@ last updated on {{ "now" | date: "%Y-%m-%d %H:%M" }} UTC.
 </tbody>
 </table>
 
-Players from a total of {{ countries | uniq | size }} countries have signed up: {{ countries | uniq | sort | join: ', '}}
+Players from a total of {{ countries | uniq | size }} countries have signed up: {{ countries | uniq | sort | join: ' '}}
 
-{% endcomment %}
+{% comment %}
 
 {:.mt-3}
 ## Participants / Standings
@@ -196,7 +198,7 @@ Players from a total of {{ countries | uniq | size }} countries have signed up: 
 </thead>
 <tbody>
 {% assign skipped = 0 %}
-{% for p in site.data.tournaments.202405.standings %}
+{% for p in site.data.tournaments.202505.standings %}
 <tr>
 <td>{{ p.Rank }}</td>
 <td>{{ p.Surname }} {{ p.Name }}</td>
@@ -206,6 +208,7 @@ Players from a total of {{ countries | uniq | size }} countries have signed up: 
 {% endfor %}
 </tbody>
 </table>
+{% endcomment %}
 
 {:.mt-3}
 ## Contact

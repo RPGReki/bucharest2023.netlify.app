@@ -5,12 +5,12 @@ permalink: /_redirects
 ---
 https://ronmania2023.netlify.app/*          {{"/ronmania-2023/" | absolute_url }}                        301!
 https://ronmania2023.reki.wtf/*             {{"/ronmania-2023/" | absolute_url }}                        301!
+
 https://buchariichi2023.reki.wtf/*          {{"/buchariichi-2023/" | absolute_url }}                     301!
 
+https://ronmania2024.reki.wtf/*             {{"/ronmania-2024/" | absolute_url }}                        301!
 ## UX stuff
 
-/player* id=:id /player/:id/? 301
-
-/                                           {{"/ronmania-2024/" | absolute_url }}                        302!
+/                                           {{"/ronmania-2025/" | absolute_url }}                        302!
 
 # vim: set textwidth=0:
