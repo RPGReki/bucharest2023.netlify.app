@@ -166,14 +166,13 @@ last updated on {{ "now" | date: "%Y-%m-%d %H:%M" }} UTC.
 {% assign countries = "" | split: "," %}
 {% for p in site.data.tournaments.202505.participants %}
 {% if p.status == "DEL" %}{% assign skipped = skipped | plus: 1 %}{% continue %}{% endif %}
-{% assign country = p.country | strip %}
-{% assign countries = countries | push: country %}
+{% assign countries = countries | push: p.country %}
 <tr>
 <td>{{ forloop.index | minus: skipped }}</td>
 <td>{{ p.given_name }}</td>
 <td>{{ p.surname }}</td>
 <td>{{ p.ema_id }}</td>
-<td>{{ country }}</td>
+<td>{{ p.country }}</td>
 <td>{{ p.status }}</td>
 </tr>
 {% endfor %}
