@@ -164,7 +164,7 @@ last updated on {{ "now" | date: "%Y-%m-%d %H:%M" }} UTC.
 <tbody>
 {% assign skipped = 0 %}
 {% assign countries = "" | split: "," %}
-{% for p in site.data.tournaments.202405.participants %}
+{% for p in site.data.tournaments.202505.participants %}
 {% if p.status == "DEL" %}{% assign skipped = skipped | plus: 1 %}{% continue %}{% endif %}
 {% assign country = p.country | strip %}
 {% assign countries = countries | push: country %}
