@@ -1,5 +1,5 @@
 ---
-title: 2023 Tournament Administration
+title: 2025 Tournament Administration
 layout: 2021/data_table
 sitemap: false
 robots: noindex
