@@ -179,7 +179,7 @@ last updated on {{ "now" | date: "%Y-%m-%d %H:%M" }} UTC.
 </tbody>
 </table>
 
-Players from a total of {{ countries | uniq | size }} countries have signed up: {{ countries | uniq | sort | join: ' '}}
+Players from a total of {{ countries | uniq | size }} countries have signed up: {{ countries | uniq | sort | join: ', '}}
 
 {% comment %}
 
