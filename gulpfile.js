@@ -146,6 +146,7 @@ gulp.task("get-participants", function (done) {
                 country = country.replace(/^NL$/,"NLD");
 
                 country = country.replace(/^ROMANIA$/,"ROU");
+                country = country.replace(/^ROMÂNIA$/,"ROU");
                 country = country.replace(/^RO$/,"ROU");
 
                 country = country.replace(/^SE$/,"SWE");
