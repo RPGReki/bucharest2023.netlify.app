@@ -18,7 +18,7 @@ The fourth tournament to be held in Romania, in the capital city of Bucharest as
 
 This 2 day tournament, rated MERS 2+, will take place on the 10th and 11h of May 2025.
 The number of participants is limited to 60.
-The registration fee is TBA.
+The registration fee is EUR 55.
 Included in the registration fee are 2 lunches and an assortment of non-alcoholic beverages at the venue.
 
 If possible, please transfer this 3 weeks before the start of the tournament to the following account:
