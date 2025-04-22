@@ -149,6 +149,12 @@ gulp.task("get-participants", function (done) {
                 country = country.replace(/^ROMÂNIA$/,"ROU");
                 country = country.replace(/^RO$/,"ROU");
 
+                country = country.replace(/^SLOVENIA$/,"SVN");
+                country = country.replace(/^SI$/,"SVN");
+
+                country = country.replace(/^SLOVAKIA$/,"SVK");
+                country = country.replace(/^SK$/,"SVK");
+
                 country = country.replace(/^SE$/,"SWE");
                 country = country.replace(/^UA$/,"UKR");
                 
@@ -192,6 +198,12 @@ gulp.task("get-participants", function (done) {
                 
                 flag = flag.replace(/^UKRAINE$/,"UA");
                 flag = flag.replace(/^UKR$/,"UA");
+
+                flag = flag.replace(/^SLOVENIA$/,"SI");
+                flag = flag.replace(/^SVN$/,"SI");
+
+                flag = flag.replace(/^SLOVAKIA$/,"SK");
+                flag = flag.replace(/^SVK$/,"SK");
                                 
                 flag = flag.replace("N/A","EU");
 
